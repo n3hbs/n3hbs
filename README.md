@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel, React, and React Native projects<br>👯 I’m looking to collaborate on Open Source, Web Development, and Mobile App projects<br>🤝 I’m looking for help with Data Engineering, System Design, and DevOps<br>🌱 I’m currently learning Python, Data Engineering, Docker, and Cloud Technologies<br>💬 Ask me about Laravel, PHP, React, REST APIs, MySQL, and Git<br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and I'm always learning new technologies.
+🔭 I’m currently working on Laravel, React, and React Native projects<br>👯 I’m looking to collaborate on Open Source, Web Development, and Mobile App projects<br>🤝 I’m looking for help with Data Engineering, System Design, and DevOps<br>🌱 I’m currently learning Data Engineering, Docker, and Cloud Technologies<br>💬 Ask me about Laravel, PHP, React, REST APIs, MySQL, and Git<br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and I'm always learning new technologies.
 
 
 ## 🌐 Socials:
