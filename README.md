@@ -25,8 +25,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=n3hbs&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=n3hbs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=n3hbs&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=n3hbs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" />
+</p>
 
 ---
 
